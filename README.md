@@ -5,6 +5,9 @@ I'm Mathis Joffre, I'm 21 years old and I'm an apprentice engineer currently int
 - 👯 I’m looking to collaborate on various network related open source project
 - 💬 Ask me about network and what did I plan with OpenNetInventory
 - 📫 How to reach me: on Linkedin or GitHub
+
+[![Joffref's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joffref)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Joffref/Joffref** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
