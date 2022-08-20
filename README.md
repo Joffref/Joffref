@@ -1,8 +1,7 @@
 ### Hi there 👋
-I'm Mathis Joffre, I'm 21 years old and I'm an apprentice engineer currently interested in Network and SysAdmin.
+I'm Mathis Joffre, I'm 21 years old and I'm an apprentice engineer currently interested in Network, system administration and software engineering.
 
-- 🔭 I’m currently working on OpenNetInventory an API to inventorize Network equipements. It's written in GOLang and empowered by Neo4J.
-- 👯 I’m looking to collaborate on various network related open source project
+- 👯 I’m looking to collaborate on open source project
 - 📫 How to reach me: on Linkedin or GitHub
 
 
